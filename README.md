@@ -65,7 +65,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-01)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_desafio-0130-conclu%C3%ADdo-d%C3%A1-pra-acreditar-activity-6723653208226484224-p977)
 
 ##### O que eu aprendi
 
