@@ -72,6 +72,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 [@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
 [translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)
 [transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+[usando animações CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Animations/Usando_anima%C3%A7%C3%B5es_CSS)
 
 *Primeira animação que faço na vida, dá pra acreditar?? kkk
 Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferente dessa animação após ter acabado. Sugiro que você também dê uma brincada após terminar cada desafio ;)*
