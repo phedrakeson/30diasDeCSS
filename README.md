@@ -17,7 +17,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 ------------
 
 ### Gostou da ideia? 
-[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar.
+[Clique aqui](https://github.com/phedrakeson/30diasDeCSS/issues/1) para participar.
 
 #### Youtube Referencias dos desafios
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
