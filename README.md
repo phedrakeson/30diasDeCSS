@@ -27,7 +27,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 
 
 
-* [Dia 01 - Em Breve!](#id01)
+* [Dia 01 - Page Loading Animation](#id01)
 * [Dia 02 - Em Breve!](#id02)
 * [Dia 03 - Em Breve!](#id03)
 * [Dia 04 - Em Breve!](#id04)
@@ -59,12 +59,20 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 30 - Em Breve!](#id30)
 
 
-##  Desafio dia 01 -  <a name="id01"></a>
-![Dia 01]()
+##  Desafio dia 01 - Page Loading Animation  <a name="id01"></a>
+![Dia 01](https://i.gyazo.com/eff3dca338b376aa764d7a042809010e.gif)
 
 
-[Meu codigo]()
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-01)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_desafio-0130-conclu%C3%ADdo-d%C3%A1-pra-acreditar-activity-6723653208226484224-p977)
 
 ##### O que eu aprendi
+
+[@keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
+[translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)
+[transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+[usando animações CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Animations/Usando_anima%C3%A7%C3%B5es_CSS)
+
+*Primeira animação que faço na vida, dá pra acreditar?? kkk
+Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferente dessa animação após ter acabado. Sugiro que você também dê uma brincada após terminar cada desafio ;)*
