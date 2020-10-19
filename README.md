@@ -28,7 +28,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 
 
 * [Dia 01 - Page Loading Animation](#id01)
-* [Dia 02 - Em Breve!](#id02)
+* [Dia 02 - 3D Social Media Hover Animation](#id02)
 * [Dia 03 - Em Breve!](#id03)
 * [Dia 04 - Em Breve!](#id04)
 * [Dia 05 - Em Breve!](#id05)
@@ -76,3 +76,13 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 
 *Primeira animação que faço na vida, dá pra acreditar?? kkk
 Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferente dessa animação após ter acabado. Sugiro que você também dê uma brincada após terminar cada desafio ;)*
+
+------------
+
+##  Desafio dia 02 - 3D Social Media Hover Animation  <a name="id02"></a>
+![Dia 02](https://i.gyazo.com/74fcd85b1ece5f0baae897e38de97c6d.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-02)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6724038243664363520-PT5D)
