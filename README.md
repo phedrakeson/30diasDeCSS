@@ -29,7 +29,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 
 * [Dia 01 - Page Loading Animation](#id01)
 * [Dia 02 - 3D Social Media Hover Animation](#id02)
-* [Dia 03 - Em Breve!](#id03)
+* [Dia 03 - Profile Card](#id03)
 * [Dia 04 - Em Breve!](#id04)
 * [Dia 05 - Em Breve!](#id05)
 * [Dia 06 - Em Breve!](#id06)
@@ -86,3 +86,12 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-02)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6724038243664363520-PT5D)
+
+##  Desafio dia 03 - Profile Card  <a name="id03"></a>
+![Dia 02](https://i.gyazo.com/d18a4ff9bd4f12c81b1ead923ae25ccf.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-03)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6724396316962668545-6wjU)
+
