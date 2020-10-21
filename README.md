@@ -95,3 +95,10 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6724396316962668545-6wjU)
 
+##  Desafio dia 04 - Liquid Motion  <a name="id04"></a>
+![Dia 02](https://i.gyazo.com/e8a6aca61c2aa2b52aef3317ba979755.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-04)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_dia-0430-conclu%C3%ADdo-mano-posso-dizer-activity-6724751242486181888-ObU1)
