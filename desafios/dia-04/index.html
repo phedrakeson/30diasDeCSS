@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Liquid Motion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="ball ball-1"></div>
+    <div class="ball ball-2"></div>
+  </div>
+  <svg>
+        <filter id='gooey'>
+            <feGaussianBlur in="SourceGraphic" stdDeviation="10"/>
+            <feColorMatrix values="
+            1 0 0 0 0
+            0 1 0 0 0
+            0 0 1 0 0
+            0 0 0 20 -10
+            "/>
+        </filter>
+    </svg>
+</body>
+</html>
