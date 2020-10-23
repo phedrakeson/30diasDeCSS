@@ -32,7 +32,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 03 - Profile Card](#id03)
 * [Dia 04 - Liquid Motion](#id04)
 * [Dia 05 - Menu Hamburger Animado](#id05)
-* [Dia 06 - Em Breve!](#id06)
+* [Dia 06 - Background Gradiente Animado](#id06)
 * [Dia 07 - Em Breve!](#id07)  
 * [Dia 08 - Em Breve!](#id08)
 * [Dia 09 - Em Breve!](#id09)
@@ -110,3 +110,12 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-05)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6725112387919249408-1UOI)
+
+
+##  Desafio dia 06 - Background Gradiente Animado  <a name="id06"></a>
+![Dia 06](https://i.gyazo.com/2f00c1f495abbf3d90441e15e7074f0d.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-06)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6725469297331748864-Ukkv)
