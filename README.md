@@ -33,7 +33,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 04 - Liquid Motion](#id04)
 * [Dia 05 - Menu Hamburger Animado](#id05)
 * [Dia 06 - Background Gradiente Animado](#id06)
-* [Dia 07 - Em Breve!](#id07)  
+* [Dia 07 - Video Inside Mockup](#id07)  
 * [Dia 08 - Em Breve!](#id08)
 * [Dia 09 - Em Breve!](#id09)
 * [Dia 10 - Em Breve!](#id10)
@@ -119,3 +119,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-06)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6725469297331748864-Ukkv)
+
+##  Desafio dia 07 - Video Inside Mockup  <a name="id07"></a>
+![Dia 07](https://i.gyazo.com/73efdf9c700a678f9b4f7a1b5c3801d9.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-07)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6725801184940097536-18pu)
