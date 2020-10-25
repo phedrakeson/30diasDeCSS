@@ -34,7 +34,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 05 - Menu Hamburger Animado](#id05)
 * [Dia 06 - Background Gradiente Animado](#id06)
 * [Dia 07 - Video Inside Mockup](#id07)  
-* [Dia 08 - Em Breve!](#id08)
+* [Dia 08 - Jumping Text Animation](#id08)
 * [Dia 09 - Em Breve!](#id09)
 * [Dia 10 - Em Breve!](#id10)
 * [Dia 11 - Em Breve!](#id11)
@@ -127,3 +127,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-07)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6725801184940097536-18pu)
+
+##  Desafio dia 08 - Jumping Text Animation  <a name="id08"></a>
+![Dia 08](https://i.gyazo.com/94ac4f580f23563d9718496b62e133a4.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-08)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6726168998393765889-XGME)
