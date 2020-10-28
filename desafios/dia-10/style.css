@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black;
+}
+
+.clock h2 {
+  position: relative;
+  display: block;
+  color: #fff;
+  text-align: center;
+  margin: 20px 0;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.4em;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.clock .time {
+  display: flex;
+}
+
+.clock .time div {
+  position: relative;
+  margin: 0 5px;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0004);
+}
+
+.clock .time div span {
+  position: relative;
+  width: 100px;
+  height: 80px;
+  background-color: #2196f3;
+  color: #fff;
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3em;
+  z-index: 10;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.clock .time div span:nth-child(2) {
+  height: 30px;
+  font-size: 0.7em;
+  letter-spacing: 0.2em;
+  font-weight: 400;
+  box-shadow: none;
+  background-color: #127fd6;
+  text-transform: uppercase;
+  z-index: 9;
+}
+
+.clock .time div:last-child span {
+  background-color: #ff1fa9;
+}
+
+.clock .time div:last-child span:nth-child(2) {
+  background-color: #fd1e7b;
+}
