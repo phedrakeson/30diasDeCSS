@@ -36,7 +36,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 07 - Video Inside Mockup](#id07)  
 * [Dia 08 - Jumping Text Animation](#id08)
 * [Dia 09 - Search Box](#id09)
-* [Dia 10 - Em Breve!](#id10)
+* [Dia 10 - Digital Clock](#id10)
 * [Dia 11 - Em Breve!](#id11)
 * [Dia 12 - Em Breve!](#id12)
 * [Dia 13 - Em Breve!](#id13)
@@ -143,3 +143,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-09)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6726908421855084544-HIVQ)
+
+##  Desafio dia 10 - Digital Clock  <a name="id10"></a>
+![Dia 10](https://i.gyazo.com/7aabd123e2daa39836e9dc855cf62f37.png)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-10)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6727350940178948096-E0_h)
