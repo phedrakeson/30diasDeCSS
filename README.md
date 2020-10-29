@@ -37,7 +37,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 08 - Jumping Text Animation](#id08)
 * [Dia 09 - Search Box](#id09)
 * [Dia 10 - Digital Clock](#id10)
-* [Dia 11 - Em Breve!](#id11)
+* [Dia 11 - Infinite Road](#id11)
 * [Dia 12 - Em Breve!](#id12)
 * [Dia 13 - Em Breve!](#id13)
 * [Dia 14 - Em Breve!](#id14)
