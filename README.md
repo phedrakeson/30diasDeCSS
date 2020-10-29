@@ -151,3 +151,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-10)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6727350940178948096-E0_h)
+
+##  Desafio dia 11 - Infinite Road  <a name="id11"></a>
+![Dia 11](https://i.gyazo.com/8acacd3e1b8e1f1a0958ea6ebb303840.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-11)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6727647786336083968-N7_b)
