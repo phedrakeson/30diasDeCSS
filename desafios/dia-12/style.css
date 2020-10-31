@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(45deg, #24006b, #f42f8c);
+}
+
+.container {
+  width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 15px;
+  margin: 0 auto;
+}
+
+.container .card {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0 15px 60px rgba(0, 0, 0, 0.5);
+}
+
+.container .card .face {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .card .face.face1 {
+  padding: 20px;
+}
+
+.container .card .face.face2 {
+  background: #111;
+  transition: 0.5s;
+}
+
+.container .card .face.face2:before {
+  content: '';
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.container .card:hover .face.face2 {
+  height: 60px;
+}
+
+.container .card:nth-child(1) .face.face2 {
+  background: linear-gradient(45deg, #3503ad, #f7308c);
+}
+
+.container .card:nth-child(2) .face.face2 {
+  background: linear-gradient(45deg, #ccff00, #09afff);
+}
+
+.container .card:nth-child(3) .face.face2 {
+  background: linear-gradient(45deg, #e91e63, #ffeb3b);
+}
+
+.container .card:hover .face.face2 h1 {
+  font-size: 2em;
+}
+
+.container .card .face.face2 h1 {
+  font-size: 10em;
+  color: #fff;
+  transition: 0.5s;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
