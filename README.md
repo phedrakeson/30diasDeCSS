@@ -38,7 +38,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 09 - Search Box](#id09)
 * [Dia 10 - Digital Clock](#id10)
 * [Dia 11 - Infinite Road](#id11)
-* [Dia 12 - Em Breve!](#id12)
+* [Dia 12 - Card Hover Effect](#id12)
 * [Dia 13 - Em Breve!](#id13)
 * [Dia 14 - Em Breve!](#id14)
 * [Dia 15 - Em Breve!](#id15)
@@ -159,3 +159,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-11)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6727647786336083968-N7_b)
+
+##  Desafio dia 12 - Infinite Road  <a name="id12"></a>
+![Dia 12](https://i.gyazo.com/67d9acf5f75edbaf4ec148b5ebad2f56.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-12)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6728366447573168128-jR_6)
