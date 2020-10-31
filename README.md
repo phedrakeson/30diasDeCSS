@@ -161,7 +161,7 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6727647786336083968-N7_b)
 
 ##  Desafio dia 12 - Card Hover Effect  <a name="id12"></a>
-![Dia 12](https://i.gyazo.com/67d9acf5f75edbaf4ec148b5ebad2f56.gif) 
+![Dia 12]( https://i.gyazo.com/67d9acf5f75edbaf4ec148b5ebad2f56.gif) 
 
 
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-12)
