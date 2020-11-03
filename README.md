@@ -39,7 +39,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 10 - Digital Clock](#id10)
 * [Dia 11 - Infinite Road](#id11)
 * [Dia 12 - Card Hover Effect](#id12)
-* [Dia 13 - Em Breve!](#id13)
+* [Dia 13 - Input Animation](#id13)
 * [Dia 14 - Em Breve!](#id14)
 * [Dia 15 - Em Breve!](#id15)
 * [Dia 16 - Em Breve!](#id16)
@@ -167,3 +167,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-12)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6728366447573168128-jR_6)
+
+##  Desafio dia 13 - Input Animation  <a name="id13"></a>
+![Dia 13](https://i.gyazo.com/7dd86bf370b3187a6398e2b674c13a8b.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-13)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6729461062778859520-l8H4)
