@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin-left: 175px;
+  background-color: #010101;
+}
+
+.menu ul {
+  list-style: none;
+}
+
+.menu ul li {
+  background-color: azure;
+  width: 150px;
+  border: 1px solid white;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  float: left;
+  color: black;
+  font-size: 19px;
+  position: relative;
+}
+
+.menu ul li:hover {
+  background-color: #85c1e9;
+}
+
+.menu ul ul {
+  display: none;
+}
+
+.menu ul li:hover > ul {
+  display: block;
+}
+
+.menu ul ul ul {
+  margin-left: 150px;
+  top: 0px;
+  position: absolute;
+}
