@@ -42,7 +42,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 13 - Input Animation](#id13)
 * [Dia 14 - Menu Dropdown](#id14)
 * [Dia 15 - Neon Light Button](#id15)
-* [Dia 16 - Em Breve!](#id16)
+* [Dia 16 - 3D Layered Image](#id16)
 * [Dia 17 - Em Breve!](#id17)
 * [Dia 18 - Em Breve!](#id18)
 * [Dia 19 - Em Breve!](#id19)
@@ -191,3 +191,12 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-15)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6730186539030126592-4R9f)
+
+
+##  Desafio dia 16 - 3D Layered Image  <a name="id16"></a>
+![Dia 16](https://i.gyazo.com/fd4df1c8857d0898a9e181008e8cfc4e.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-16)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6730553529020268544-vp4i)
