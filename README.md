@@ -45,7 +45,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 16 - 3D Layered Image](#id16)
 * [Dia 17 - Spinning Loading Animation](#id17)
 * [Dia 18 - Card Animation](#id18)
-* [Dia 19 - Em Breve!](#id19)
+* [Dia 19 - Transparent Login](#id19)
 * [Dia 20 - Em Breve!](#id20)
 * [Dia 21 - Em Breve!](#id21)
 * [Dia 22 - Em Breve!](#id22)
@@ -216,3 +216,11 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-18)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6731249820293459968-eJ6d)
+
+##  Desafio dia 19 - Transparent Login  <a name="id19"></a>
+![Dia 18](https://i.gyazo.com/4bea1d4181d6a98d6c338a588c961f7d.png)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-19)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6731627706267561984-bYhK)
