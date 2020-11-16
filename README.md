@@ -46,7 +46,7 @@ O desafio tem como objetivo manter uma prática e aprendizado sobre html e css p
 * [Dia 17 - Spinning Loading Animation](#id17)
 * [Dia 18 - Card Animation](#id18)
 * [Dia 19 - Transparent Login](#id19)
-* [Dia 20 - Em Breve!](#id20)
+* [Dia 20 - Card Toggle Effect](#id20)
 * [Dia 21 - Em Breve!](#id21)
 * [Dia 22 - Em Breve!](#id22)
 * [Dia 23 - Em Breve!](#id23)
@@ -218,9 +218,18 @@ Achei bem bacana e simples de se fazer, ainda cheguei a fazer um estilo diferent
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6731249820293459968-eJ6d)
 
 ##  Desafio dia 19 - Transparent Login  <a name="id19"></a>
-![Dia 18](https://i.gyazo.com/4bea1d4181d6a98d6c338a588c961f7d.png)
+![Dia 19](https://i.gyazo.com/4bea1d4181d6a98d6c338a588c961f7d.png)
 
 
 [Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-19)
 
 [Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6731627706267561984-bYhK)
+
+
+##  Desafio dia 20 - Card Toggle Effect  <a name="id20"></a>
+![Dia 20](https://i.gyazo.com/5ffc0ea81ec71f1914c89169e3894142.gif)
+
+
+[Meu codigo](https://github.com/phedrakeson/30diasDeCSS/tree/main/desafios/dia-20)
+
+[Post LinkedIn](https://www.linkedin.com/posts/gabedev_30diasdecss-activity-6734173422202474496-NxJa)
